@@ -1,6 +1,3 @@
 Hello world!
-<<<<<<< HEAD
 My name is snu.
-=======
 My job is investor!
->>>>>>> my_branch
