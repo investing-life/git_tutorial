@@ -1,3 +1,5 @@
 Hello world!
 My name is snu.
-My job is investor!
+My job is investor.
+
+Check out the dream.txt to see my goals!
